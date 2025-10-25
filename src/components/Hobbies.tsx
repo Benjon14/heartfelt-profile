@@ -1,10 +1,10 @@
 import { Card } from "@/components/ui/card";
-import { Camera, Coffee, Music, Plane, Book, Dumbbell } from "lucide-react";
+import { Camera, Coffee, Music, Plane, Book, Bike } from "lucide-react";
 
 const Hobbies = () => {
   const hobbies = [
     {
-      icon: Plane,
+      icon: Bike,
       title: "Motorcycle Riding",
       description: "Hitting the open road and feeling the freedom on two wheels",
     },
