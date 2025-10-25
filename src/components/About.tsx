@@ -15,19 +15,19 @@ const About = () => {
 
           <Card className="p-8 md:p-12 shadow-soft gradient-card border-0 mb-8">
             <p className="text-lg leading-relaxed text-foreground mb-6">
-              Hey there! I'm a passionate developer who believes that great software is built with
-              both technical excellence and genuine care. My journey into tech started with curiosity
-              and has evolved into a deep love for creating solutions that make people's lives better.
+              Hey there! I'm Rogem Lanuza, an IT student at Lapu-Lapu City College with a passion
+              for technology and problem-solving. My journey into tech started with curiosity and
+              has evolved into a deep love for creating solutions that make a difference.
             </p>
             <p className="text-lg leading-relaxed text-foreground mb-6">
-              With a background in full-stack development, I've had the privilege of working on
-              projects ranging from small startups to large-scale applications. What drives me isn't
-              just writing clean code—it's the impact that code has on real people.
+              As I pursue my degree in Information Technology, I'm constantly learning new skills
+              and working on projects that challenge me to grow. What drives me isn't just writing
+              code—it's understanding how technology can improve people's lives and solve real-world problems.
             </p>
             <p className="text-lg leading-relaxed text-foreground">
-              When I'm not coding, you'll find me exploring new technologies, contributing to
-              open-source projects, or sharing what I've learned with the developer community. I
-              believe in continuous learning and the power of collaboration to solve complex problems.
+              When I'm not studying or coding, you'll find me on the road with my motorcycle,
+              exploring new places and enjoying the freedom of travel. I believe in balancing hard
+              work with adventure and making the most of every opportunity to learn and grow.
             </p>
           </Card>
 

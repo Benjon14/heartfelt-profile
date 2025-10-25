@@ -4,34 +4,34 @@ import { Camera, Coffee, Music, Plane, Book, Dumbbell } from "lucide-react";
 const Hobbies = () => {
   const hobbies = [
     {
-      icon: Camera,
-      title: "Photography",
-      description: "Capturing moments and exploring the world through my lens",
-    },
-    {
-      icon: Coffee,
-      title: "Coffee Enthusiast",
-      description: "Always on the hunt for the perfect brew and cozy cafes",
-    },
-    {
-      icon: Music,
-      title: "Music Production",
-      description: "Creating beats and exploring different genres in my free time",
+      icon: Plane,
+      title: "Motorcycle Riding",
+      description: "Hitting the open road and feeling the freedom on two wheels",
     },
     {
       icon: Plane,
-      title: "Travel",
-      description: "Exploring new cultures and collecting stories from around the world",
+      title: "Travel & Adventure",
+      description: "Exploring new places and discovering hidden gems across the country",
+    },
+    {
+      icon: Camera,
+      title: "Road Photography",
+      description: "Capturing beautiful landscapes and memories from my travels",
+    },
+    {
+      icon: Coffee,
+      title: "Coffee Stops",
+      description: "Finding the best local cafes during my road trips",
+    },
+    {
+      icon: Music,
+      title: "Riding Playlists",
+      description: "Curating the perfect soundtrack for every journey",
     },
     {
       icon: Book,
-      title: "Reading",
-      description: "Diving into sci-fi novels and tech philosophy books",
-    },
-    {
-      icon: Dumbbell,
-      title: "Fitness",
-      description: "Staying active with gym sessions and outdoor adventures",
+      title: "Tech Learning",
+      description: "Constantly expanding my IT knowledge through books and courses",
     },
   ];
 
